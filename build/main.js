@@ -69,7 +69,6 @@
 
 
 
-
 	React.render(React.createElement(IndexView, null),document.body);
 
 
@@ -88,7 +87,7 @@
 	    render : function(){
 	        return (
 	            React.createElement("div", {className: ""}, 
-	                "Hello, world! I am a index."
+	                "Hello, world! I am a 77"
 	            )
 	        );
 	    }

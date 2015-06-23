@@ -5,7 +5,12 @@
   "private": true,
   "dependencies": {
     "jsx-loader": "~0.13.2",
-    "webpack" : "*"
-  }
+    "webpack" : "*",
+    "react-hot-loader" : "*"
+  },
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "pack": "webpack --progress --colors --watch"
 
 }
