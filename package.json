@@ -1,0 +1,11 @@
+{
+  "name": "react-custom",
+  "version": "0.1.0",
+  "author" : "sherlcok221b",
+  "private": true,
+  "dependencies": {
+    "jsx-loader": "~0.13.2",
+    "webpack" : "*"
+  }
+
+}
